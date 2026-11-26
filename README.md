@@ -57,7 +57,7 @@ SQLite is provided by Python's standard library; a separate SQLite installation 
 3. Clone the repository and enter the project directory:
 
    ```bash
-   git clone <REPOSITORY_URL>
+   git clone https://github.com/Huey139/LocalAgentUI.git
    cd LocalAgentUI
    ```
 
