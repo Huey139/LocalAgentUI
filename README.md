@@ -109,4 +109,4 @@ This is an early-stage personal project. Read [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## License
 
-No open-source licence has been selected yet. Until a licence is added, do not assume that the source is available for unrestricted reuse, modification or redistribution.
+This project is licensed under the **Apache License 2.0**. You may use, modify and distribute the software in accordance with the licence terms. See the [LICENSE](LICENSE) file for the full text.
