@@ -34,9 +34,4 @@ runtime/
 outputs/
 work/
 workspaces/
-
-# Database
-*.db
-*.sqlite
-*.sqlite3
-.DS_Store
+global/outputs/
