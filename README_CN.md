@@ -53,7 +53,7 @@ SQLite 使用 Python 标准库，通常不需要单独安装。
 3. 克隆项目并进入目录：
 
    ```bash
-   git clone <REPOSITORY_URL>
+   git clone https://github.com/Huey139/LocalAgentUI.git
    cd LocalAgentUI
    ```
 
@@ -102,7 +102,6 @@ docs/          安装、配置、架构和工作流文档
 workspaces/    运行时工作区（用户数据，内容由 Git 忽略）
 global/        运行时公共输出（内容由 Git 忽略）
 data/          本地 SQLite 数据库（由 Git 忽略）
-scripts/       可选开发和维护脚本
 ```
 
 ## 参与开发与安全问题
