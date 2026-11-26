@@ -1,0 +1,42 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Node.js
+node_modules/
+dist/
+build/
+.vite/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# Local runtime
+.local-agent-run/
+runtime/
+
+# Local workspace and generated data
+outputs/
+work/
+workspaces/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+.DS_Store
